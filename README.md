@@ -37,6 +37,6 @@
   ![LIME](image/curve.jpg)
   ### 无监督一致性损失对应图像
   
-  ![loss](image/loss)
-  ![loss2](image/loss2)
+  ![loss](image/loss1.jpg)
+  ![loss2](image/loss2.jpg)
   ![patch](image/patch.jpg)
